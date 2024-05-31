@@ -78,7 +78,9 @@ Very challenging section to code. Had difficulty understanding the purpose of th
 
 Purpose of section:
 Products:
-The products class is the parent class that contains abstract methods that will be inherited by the chip, sandwich, and drink classes. It is a generic class that can describe any type of food. An improperly writtern method will cause the other child classes to work incorrectly
+The products class is the parent class that contains abstract methods that will be inherited by the chip, sandwich, and drink classes. It is a generic class that can describe any type of food. An improperly writtern method will cause the other child classes to work incorrectly.
+
+![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/e8303baa-ce08-4854-9a23-82b27b607a7a)
 
 The attached image shows products in the terminal along with a piece of code that is an abstract method that will affect sandwich, bread, and drinks
 
@@ -91,7 +93,7 @@ Sandwiches:
 
 The sandwich class allows users to build a sandwhich that can contain different types of bread, vegetables, meats, cheeses, and sauces.Key part of program.Information from this section will determine most of the order prices.
 
-![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/b0db22f1-a0fb-4308-b8a8-732a7b4d03e8)
+![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/7c3ec33f-1c54-42ce-9158-2e0b4f73d0db)
 
 The attached image shows how the drink option shows up in the terminal along with a piece of code that shows a method to calculate drink price that was inherited from the product class
 
