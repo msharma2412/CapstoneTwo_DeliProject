@@ -69,7 +69,7 @@ Purpose of section:
 Orders:
 The Orders class contains methods that allow the user to place an actual order. It is a very important part of the application that accepts orders.
 
-![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/845fed3b-34b8-4db5-be7e-4c8ba52438b9)
+![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/146c9d5e-d8ff-4826-8368-9daea2bac176)
 
 The attached image shows ordering option shows up in the terminal along with a piece of code allows a user to place an order
 
