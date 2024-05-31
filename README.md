@@ -57,13 +57,42 @@ Very challenging section to code. The menu was only showing the sandwich ingredi
 
 Purpose of section:
 Drinks:
-:
-The chip class allows users to choose betwwen drink options or exiting the application.
 
+The drink class allows users to choose betwwen drink options or exiting the application.
 
+![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/f03eec87-197c-4003-8b17-26089040dba6)
 
 The attached image shows how the drink option shows up in the terminal along with a piece of code that shows a method to calculate drink price that was inherited from the product class
 
-Obstacles programming Chip Screeen:
-Very challenging section to code. The menu was only showing the sandwich ingredients.It was not allowing users to create a whole sandwich or calculate price. Tried to include code that would link methods in the DeliUserInterFace to allow user to calculate price. Broke program multiple times. A common was that the class names were missplelled or that I need to write more abstract methods.
+Purpose of section:
+Orders:
+The Orders class contains methods that allow the user to place an actual order. It is a very important part of the application that accepts orders.
 
+![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/845fed3b-34b8-4db5-be7e-4c8ba52438b9)
+
+The attached image shows ordering option shows up in the terminal along with a piece of code allows a user to place an order
+
+Obstacles programming DeliUserInterFace Screeen:
+Very challenging section to code. Had difficulty understanding the purpose of the section. It is a missing a remove order section. Trying to add a method to calculate prices caused it to crash program. 
+
+Purpose of section:
+Products:
+The products class is the parent class that contains abstract methods that will be inherited by the chip, sandwich, and drink classes. It is a generic class that can describe any type of food. An improperly writtern method will cause the other child classes to work incorrectly
+
+The attached image shows products in the terminal along with a piece of code that is an abstract method that will affect sandwich, bread, and drinks
+
+Obstacles programming Products Screeen:
+
+Very challenging section to code. Had difficulty understanding the purpose of the section.  Trying to add a method to calculate prices caused it to crash program. 
+
+Purpose of section:
+Sandwiches:
+
+The sandwich class allows users to build a sandwhich that can contain different types of bread, vegetables, meats, cheeses, and sauces.Key part of program.Information from this section will determine most of the order prices.
+
+![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/b0db22f1-a0fb-4308-b8a8-732a7b4d03e8)
+
+The attached image shows how the drink option shows up in the terminal along with a piece of code that shows a method to calculate drink price that was inherited from the product class
+
+Obstacles programming Sandwich Screeen:
+Very challenging section to code. Had difficulty understanding the purpose of the section and where different features belonged. Tried to add a method that added the prices from the other methods. Was not able to connect my order prices to the application.
