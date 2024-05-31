@@ -16,6 +16,7 @@ The project has a Main, DeliUserInterFace,Sandwich,Drink,Order,Chips,Drink,Recei
 Purpose of section:
 Main:
 The Main method welcomes users into the application and allows them to choose betwwen continuing or exiting the application.
+
 ![image](https://github.com/msharma2412/CapstoneTwo_DeliProject/assets/166542550/073f1966-3db1-40dd-b3b9-ea8c472fb541)
 
 The attached image shows how the welcome screen shows up in the terminal along with a piece of code that allows the user to switch between options.
