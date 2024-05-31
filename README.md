@@ -9,3 +9,10 @@ Accessing the Project:
 
 Project can be accessed via github. Intelli J and Java were used to create application.
 
+Sections of project:
+
+The project has a Main, DeliUserInterFace,Sandwich,Drink,Order,Chips,Drink,Receipt,and Product section.
+
+Purpose of section:
+Main:
+The Main method welcomes users into the application and allows them to choose betwwen continuing or exiting the application.
